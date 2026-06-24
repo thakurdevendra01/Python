@@ -1,8 +1,8 @@
-def greet():
+def greet():    #function
    print("Hello World!")
 greet()
 
-def add(a,b):
+def add(a,b):   #function with argument
     return a+b
 print(add(2,3))
 

@@ -1,4 +1,4 @@
-# multiplication table
+# multiplication table using for loop
 inp=int(input("Enter your number: "))
 for i in range(1,11):
     # print(inp,"X",i,"=" ,inp*i)

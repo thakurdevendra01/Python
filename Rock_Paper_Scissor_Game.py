@@ -6,6 +6,7 @@ b= "apple,ball"
 c=b.split(",")
 print(c[0])
 
+#Rock Paper Scissor Game
 import random
 inp = input("Enter your decision: ") . lower()
 val = ["scissor", "paper", "rock"]
